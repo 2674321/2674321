@@ -25,12 +25,12 @@ primaria de salud.
 
 | Proyecto | Descripción |
 |----------|-------------|
-| [base-datos-defensa-civil](https://github.com/2674321/base-datos-defensa-civil) | Sistema integral de gestión para Defensa Civil: voluntarios, eventos, entregas, inventario, permisos y dashboard |
-| [cesfam-san-juan-historico](https://github.com/2674321/cesfam-san-juan-historico) | Sistema de pacientes y urgencia para CESFAM San Juan (Google Apps Script) |
-| [cesfam-san-juan-padds](https://github.com/2674321/cesfam-san-juan-padds) | Módulo V4 de fichas PADI, agenda y alertas — CESFAM San Juan |
-| [asistencia-digital-bomberos](https://github.com/2674321/asistencia-digital-bomberos) | PWA offline de asistencia digital para compañía de Bomberos |
-| [carro-de-paro](https://github.com/2674321/carro-de-paro) | Control de carro de paro: revisiones, vencimientos e inventario de emergencia |
-| [guia-radiocomunicaciones-ca2opx](https://github.com/2674321/guia-radiocomunicaciones-ca2opx) | Manual A4 imprimible: Código Q (UIT), Claves R (CONAF), Claves 10 y alfabeto OACI |
+| **[Atención de Urgencia — CESFAM San Juan](https://github.com/2674321/cesfam-san-juan-padds)** 🟢 | Sistema implementado en el CESFAM San Juan (Coquimbo) para la atención diaria de urgencia ambulatoria: registro de pacientes, agenda, alertas y reportes de actividad. |
+| **[Control de Carro de Paro](https://github.com/2674321/carro-de-paro)** 🟢 | Gestión del carro de paro —el carrito de emergencia con los insumos y fármacos críticos— de un centro de salud: revisiones periódicas, vencimientos e inventario siempre al día. |
+| **[Base de Datos — Defensa Civil](https://github.com/2674321/base-datos-defensa-civil)** 🚧 | Sistema integral con el que un cuerpo de Defensa Civil administra su operación: voluntarios, eventos, entregas de equipamiento, inventario y permisos de acceso, con dashboard y reportes. |
+| **[Asistencia Digital — Bomberos](https://github.com/2674321/asistencia-digital-bomberos)** | Aplicación web que funciona sin internet para registrar la asistencia de voluntarios de Bomberos a emergencias, ceremonias y actividades, pensada para usarla directamente en terreno. |
+| **[Guía de Radiocomunicaciones](https://github.com/2674321/guia-radiocomunicaciones-ca2opx)** | Manual de campo imprimible (A4) que reúne los códigos de radio usados en emergencias en Chile: Código Q (UIT), Claves R (CONAF), Claves 10 del Cuerpo de Bomberos de Coquimbo y alfabeto fonético OACI. |
+| **[CESFAM San Juan — versión histórica](https://github.com/2674321/cesfam-san-juan-historico)** | Primera generación del sistema de pacientes del CESFAM San Juan, conservada como referencia del desarrollo. |
 
 ## 📮 Contacto
 
