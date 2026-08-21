@@ -8,7 +8,7 @@ Desarrollo soluciones digitales para **salud pública, emergencias y gestión in
 sistemas operativos de bomberos, Defensa Civil y atención
 primaria de salud.
 
-## 🔧 Tecnologías
+## Tecnologías
 
 ![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -21,7 +21,7 @@ primaria de salud.
 - **PWA offline-first**: aplicaciones de terreno que funcionan sin conexión
 - **CI con GitHub Actions**: verificación automática de sintaxis y pruebas
 
-## 🚀 Proyectos destacados
+## Proyectos 
 
 | Proyecto | Descripción |
 |----------|-------------|
