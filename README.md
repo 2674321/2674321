@@ -31,7 +31,7 @@ primaria de salud.
 | **[App offline · Asistencia Digital Bomberos](https://github.com/2674321/asistencia-digital-bomberos)** ⛔ | Propuesta de digitalización del registro de asistencia de voluntarios de la 1ª Compañía de Bomberos de Coquimbo. Descontinuada: exige el formato institucional exacto, pendiente de replicar digitalmente. |
 | **[Manual · Guía de Radiocomunicaciones](https://github.com/2674321/guia-radiocomunicaciones-ca2opx)** | Manual de campo imprimible (A4) que reúne los códigos de radio usados en emergencias en Chile: Código Q (UIT), Claves R (CONAF), Claves 10 del Cuerpo de Bomberos de Coquimbo y alfabeto fonético OACI. |
 
-### Formación (proyectos antiguos)
+### Formación / Proyectos antiguos
 
 | Proyecto | Descripción |
 |----------|-------------|
