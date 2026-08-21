@@ -1,8 +1,8 @@
-# CA2OPX
-
 Coquimbo, Chile 🇨🇱
 
-**Bomb. OP.** · **Operador RPAS** · **D.C V.M**
+**CA2OPX** · **Bomb. OP.** · **Operador RPAS** · **D.C V.M**
+
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--1087--9445-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-1087-9445)
 
 Desarrollo soluciones digitales para **salud pública, emergencias y gestión institucional**:
 sistemas operativos que resuelven problemas reales de bomberos, Defensa Civil y atención
@@ -35,4 +35,5 @@ primaria de salud.
 ## 📮 Contacto
 
 - 📻 **CA2OPX** · Coquimbo
+- 🎓 ORCID: [0009-0002-1087-9445](https://orcid.org/0009-0002-1087-9445)
 - 🇨🇱 Chile
