@@ -1,6 +1,8 @@
-# Hola, soy Patricio Varela C. 👋
+# CA2OPX
 
-**Indicativo radioaficionado:** CA2OPX · **Coquimbo, Chile**
+Coquimbo, Chile 🇨🇱
+
+**Bomb. OP.** · **Operador RPAS** · **D.C V.M**
 
 Desarrollo soluciones digitales para **salud pública, emergencias y gestión institucional**:
 sistemas operativos que resuelven problemas reales de bomberos, Defensa Civil y atención
@@ -32,5 +34,5 @@ primaria de salud.
 
 ## 📮 Contacto
 
-- 📻 Radio: **CA2OPX** · Coquimbo
+- 📻 **CA2OPX** · Coquimbo
 - 🇨🇱 Chile
