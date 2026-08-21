@@ -26,11 +26,11 @@ primaria de salud.
 | Proyecto | Descripción |
 |----------|-------------|
 | [base-datos-defensa-civil](https://github.com/2674321/base-datos-defensa-civil) | Sistema integral de gestión para Defensa Civil: voluntarios, eventos, entregas, inventario, permisos y dashboard |
-| [proyecto-cesfam-san-juan](https://github.com/2674321/proyecto-cesfam-san-juan) | Sistema de pacientes y urgencia para CESFAM San Juan (Google Apps Script) |
+| [cesfam-san-juan-historico](https://github.com/2674321/cesfam-san-juan-historico) | Sistema de pacientes y urgencia para CESFAM San Juan (Google Apps Script) |
 | [cesfam-san-juan-padds](https://github.com/2674321/cesfam-san-juan-padds) | Módulo V4 de fichas PADI, agenda y alertas — CESFAM San Juan |
 | [asistencia-digital-bomberos](https://github.com/2674321/asistencia-digital-bomberos) | PWA offline de asistencia digital para compañía de Bomberos |
-| [proyecto-carro-de-paro](https://github.com/2674321/proyecto-carro-de-paro) | Control de carro de paro: revisiones, vencimientos e inventario de emergencia |
-| [Guia-radiocomunicaciones-CA2OPX](https://github.com/2674321/Guia-radiocomunicaciones-CA2OPX) | Manual A4 imprimible: Código Q (UIT), Claves R (CONAF), Claves 10 y alfabeto OACI |
+| [carro-de-paro](https://github.com/2674321/carro-de-paro) | Control de carro de paro: revisiones, vencimientos e inventario de emergencia |
+| [guia-radiocomunicaciones-ca2opx](https://github.com/2674321/guia-radiocomunicaciones-ca2opx) | Manual A4 imprimible: Código Q (UIT), Claves R (CONAF), Claves 10 y alfabeto OACI |
 
 ## 📮 Contacto
 
