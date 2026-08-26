@@ -15,6 +15,7 @@ primaria de salud.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 - **Google Apps Script + clasp**: sistemas de gestión sobre Google Workspace (Sheets como base de datos, UI web propia, PDFs, dashboards)
@@ -25,6 +26,8 @@ primaria de salud.
 
 | Proyecto | Descripción |
 |----------|-------------|
+| **[Sistema · Gestión de Guardias](https://github.com/2674321/sistema-de-guardias)** 🟢 | Calendarización y gestión de guardias para la 1ª Compañía de Bomberos del CBC (Coquimbo): niveles Inicial/Operativo/Profesional con cupos por día, asistencia, baja protegida con código enviado al correo y panel de administración integrado sobre Google Sheets. |
+| **[Sistema · Cotizaciones PDF](https://github.com/2674321/sistema-cotizaciones)** 🟢 | Generador personal de cotizaciones profesionales para servicios tecnológicos: JSON → plantilla HTML → PDF con WeasyPrint, QR de verificación + hash SHA-256 anti-alteraciones, desglose justificado de la inversión y numeración automática. |
 | **[Sistema · Seguimiento Clínico PADI](https://github.com/2674321/cesfam-san-juan-padds)** 🟢 | Sistema de seguimiento clínico para el Servicio PADI del CESFAM San Juan (Coquimbo), desarrollado a solicitud del servicio: registro de pacientes con dependencia, cuidador principal, controles y patologías crónicas, alertas de vigencia y agenda. |
 | **[Sistema · Control de Carro de Paro](https://github.com/2674321/carro-de-paro)** 🟢 | Revisión de inventario de los carros de paro del SAPU del CESFAM San Juan —tanto en la urgencia ambulatoria como en los móviles—: medicamentos e insumos, revisiones periódicas, stock y vencimientos. |
 | **[Sistema · Base de Datos Defensa Civil](https://github.com/2674321/base-datos-defensa-civil)** 🚧 | Sistema integral para la Defensa Civil de Chile, Sede La Serena: voluntarios con grados y especialidades, eventos, entregas de equipamiento e inventario, con dashboard y control de acceso. |
