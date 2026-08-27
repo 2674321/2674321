@@ -23,22 +23,63 @@ primaria de salud.
 - **PWA offline-first**: aplicaciones de terreno que funcionan sin conexión
 - **CI con GitHub Actions**: verificación automática de sintaxis y pruebas
 
-## Proyectos 
+## Visión
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/2674321/cesfam-san-juan-padds">
+<img src="screenshots/padi-dashboard-01.png" width="100%" alt="PADI — Seguimiento Clínico"/>
+</a>
+<br><sub>PADI · Seguimiento Clínico</sub>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/2674321/carro-de-paro">
+<img src="screenshots/carro-informe-mensual.png" width="100%" alt="Carro de Paro — Control de Inventario"/>
+</a>
+<br><sub>Carro de Paro · Inventario</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/2674321/sistema-de-guardias">
+<img src="screenshots/guardias-calendario-bimestral-pc.png" width="100%" alt="Guardias — Calendarización"/>
+</a>
+<br><sub>Guardias · Calendarización</sub>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/2674321/sistema-cotizaciones">
+<img src="screenshots/cotizaciones-demo-01.png" width="100%" alt="Cotizaciones — Generador PDF"/>
+</a>
+<br><sub>Cotizaciones · PDF</sub>
+</td>
+</tr>
+</table>
+
+## Proyectos
+
+### En uso 🟢
 
 | Proyecto | Descripción |
 |----------|-------------|
-| **[Sistema · Gestión de Guardias](https://github.com/2674321/sistema-de-guardias)** 🟢 | Calendarización y gestión de guardias para la 1ª Compañía de Bomberos del CBC (Coquimbo): niveles Inicial/Operativo/Profesional con cupos por día, asistencia, baja protegida con código enviado al correo y panel de administración integrado sobre Google Sheets. |
-| **[Sistema · Cotizaciones PDF](https://github.com/2674321/sistema-cotizaciones)** 🟢 | Generador personal de cotizaciones profesionales para servicios tecnológicos: JSON → plantilla HTML → PDF con WeasyPrint, QR de verificación + hash SHA-256 anti-alteraciones, desglose justificado de la inversión y numeración automática. |
-| **[Sistema · Seguimiento Clínico PADI](https://github.com/2674321/cesfam-san-juan-padds)** 🟢 | Sistema de seguimiento clínico para el Servicio PADI del CESFAM San Juan (Coquimbo), desarrollado a solicitud del servicio: registro de pacientes con dependencia, cuidador principal, controles y patologías crónicas, alertas de vigencia y agenda. |
-| **[Sistema · Control de Carro de Paro](https://github.com/2674321/carro-de-paro)** 🟢 | Revisión de inventario de los carros de paro del SAPU del CESFAM San Juan —tanto en la urgencia ambulatoria como en los móviles—: medicamentos e insumos, revisiones periódicas, stock y vencimientos. |
-| **[Sistema · Base de Datos Defensa Civil](https://github.com/2674321/base-datos-defensa-civil)** 🚧 | Sistema integral para la Defensa Civil de Chile, Sede La Serena: voluntarios con grados y especialidades, eventos, entregas de equipamiento e inventario, con dashboard y control de acceso. |
-| **[App offline · Asistencia Digital Bomberos](https://github.com/2674321/asistencia-digital-bomberos)** ⛔ | Propuesta de digitalización del registro de asistencia de voluntarios de la 1ª Compañía de Bomberos de Coquimbo. Descontinuada: exige el formato institucional exacto, pendiente de replicar digitalmente · ▶️ [demo](https://2674321.github.io/asistencia-digital-bomberos/) |
+| **[Sistema · Gestión de Guardias](https://github.com/2674321/sistema-de-guardias)** | Calendarización y gestión de guardias para la 1ª Compañía de Bomberos del CBC (Coquimbo): niveles Inicial/Operativo/Profesional con cupos por día, asistencia, baja protegida con código enviado al correo y panel de administración integrado sobre Google Sheets. |
+| **[Sistema · Cotizaciones PDF](https://github.com/2674321/sistema-cotizaciones)** | Generador personal de cotizaciones profesionales para servicios tecnológicos: JSON → plantilla HTML → PDF con WeasyPrint, QR de verificación + hash SHA-256 anti-alteraciones, desglose justificado de la inversión y numeración automática. |
+| **[Sistema · Seguimiento Clínico PADI](https://github.com/2674321/cesfam-san-juan-padds)** | Sistema de seguimiento clínico para el Servicio PADI del CESFAM San Juan (Coquimbo), desarrollado a solicitud del servicio: registro de pacientes con dependencia, cuidador principal, controles y patologías crónicas, alertas de vigencia y agenda. |
+| **[Sistema · Control de Carro de Paro](https://github.com/2674321/carro-de-paro)** | Revisión de inventario de los carros de paro del SAPU del CESFAM San Juan —tanto en la urgencia ambulatoria como en los móviles—: medicamentos e insumos, revisiones periódicas, stock y vencimientos. |
 | **[Manual · Guía de Radiocomunicaciones](https://github.com/2674321/guia-radiocomunicaciones-ca2opx)** | Manual de campo imprimible (A4) con los códigos de radio usados en emergencias en Chile — Código Q (UIT), Claves R (CONAF) y alfabeto fonético OACI — en dos versiones: Claves 10 del Cuerpo de Bomberos de Coquimbo y Códigos 10 de Banda Ciudadana (CB). Incluye tarjetas con QR listas para imprimir · 🌐 [ver online](https://2674321.github.io/guia-radiocomunicaciones-ca2opx/) |
+
+### En desarrollo 🚧
+
+| Proyecto | Descripción |
+|----------|-------------|
+| **[Sistema · Base de Datos Defensa Civil](https://github.com/2674321/base-datos-defensa-civil)** | Sistema integral para la Defensa Civil de Chile, Sede La Serena: voluntarios con grados y especialidades, eventos, entregas de equipamiento e inventario, con dashboard y control de acceso. |
+| **[Sistema ECICEP Unificado](https://github.com/2674321/sistema-gestion-sectores-ecicep)** | Gestión centralizada de pacientes del programa ECICEP (Examen de Medicina Preventiva) del CESFAM San Juan: tres sectores (Amarillo/Verde/Naranjo), REM, estratificación y panel de control — Google Sheets + Apps Script. |
 
 ### Formación / Proyectos antiguos
 
 | Proyecto | Descripción |
 |----------|-------------|
+| **[App offline · Asistencia Digital Bomberos](https://github.com/2674321/asistencia-digital-bomberos)** | Propuesta de digitalización del registro de asistencia de voluntarios de la 1ª Compañía de Bomberos de Coquimbo. Descontinuada: exige el formato institucional exacto, pendiente de replicar digitalmente · ▶️ [demo](https://2674321.github.io/asistencia-digital-bomberos/) |
 | **[Programa escritorio · Seguimiento de Baterías](https://github.com/2674321/seguimiento-baterias-pernostock-ltda)** | Aplicación de escritorio en Ruby/GTK3 + SQLite desarrollada para Pernostock Ltda: registro, búsqueda, historial, estadísticas y copias de seguridad de baterías. |
 | **[Página web · Aurea Salud](https://github.com/2674321/pagina-web-aurea-salud)** | Prototipo experimental de plataforma de salud/telemedicina: landing informativa, login simulado y panel administrativo estático. Incompleto por diseño; conservado como referencia de aprendizaje. |
 
