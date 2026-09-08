@@ -64,8 +64,9 @@ primaria de salud.
 |----------|-------------|
 | **[Sistema · Gestión de Guardias](https://github.com/2674321/sistema-de-guardias)** | Calendarización y gestión de guardias para la 1ª Compañía de Bomberos del CBC (Coquimbo): niveles Inicial/Operativo/Profesional con cupos por día, asistencia, baja protegida con código enviado al correo y panel de administración integrado sobre Google Sheets. |
 | **[Sistema · Cotizaciones PDF](https://github.com/2674321/sistema-cotizaciones)** | Generador personal de cotizaciones profesionales para servicios tecnológicos: JSON → plantilla HTML → PDF con WeasyPrint, QR de verificación + hash SHA-256 anti-alteraciones, desglose justificado de la inversión y numeración automática. |
-| **[Sistema · Seguimiento Clínico PADI](https://github.com/2674321/cesfam-san-juan-padds)** | Sistema de seguimiento clínico para el Servicio PADI del CESFAM San Juan (Coquimbo), desarrollado a solicitud del servicio: registro de pacientes con dependencia, cuidador principal, controles y patologías crónicas, alertas de vigencia y agenda. |
-| **[Sistema · Control de Carro de Paro](https://github.com/2674321/carro-de-paro)** | Revisión de inventario de los carros de paro del SAPU del CESFAM San Juan —tanto en la urgencia ambulatoria como en los móviles—: medicamentos e insumos, revisiones periódicas, stock y vencimientos. |
+| **[Sistema · Seguimiento Clínico PADI](https://github.com/2674321/cesfam-san-juan-padds)** | Sistema de seguimiento clínico desarrollado a solicitud del Servicio PADI (Coquimbo): registro de pacientes con dependencia, cuidador principal, controles y patologías crónicas, alertas de vigencia y agenda. |
+| **[Sistema · Control de Carro de Paro](https://github.com/2674321/carro-de-paro)** | Revisión de inventario de carros de paro (urgencia ambulatoria y móviles): medicamentos e insumos, revisiones periódicas, stock y vencimientos. |
+| **[Sistema ECICEP](https://github.com/2674321/sistema-gestion-sectores-ecicep)** | Sistema personal de registro y gestión clínica de pacientes: formulario web único de captura, identificación y deduplicación, modelo de estratificación por sectores (naranjo/amarillo/verde), panel de control, estadísticas REM (Excel/PDF), cola de calidad y backups — Google Sheets + Apps Script · 🧪 [demo del formulario](https://github.com/2674321/Sistema-Gestion-Sectores-ECICEP/blob/master/examples/formulario_demo.html) |
 | **[Manual · Guía de Radiocomunicaciones](https://github.com/2674321/guia-radiocomunicaciones-ca2opx)** | Manual de campo imprimible (A4) con los códigos de radio usados en emergencias en Chile — Código Q (UIT), Claves R (CONAF) y alfabeto fonético OACI — en dos versiones: Claves 10 del Cuerpo de Bomberos de Coquimbo y Códigos 10 de Banda Ciudadana (CB). Incluye tarjetas con QR listas para imprimir · 🌐 [ver online](https://2674321.github.io/guia-radiocomunicaciones-ca2opx/) |
 
 ### En desarrollo 🚧
@@ -73,7 +74,6 @@ primaria de salud.
 | Proyecto | Descripción |
 |----------|-------------|
 | **[Sistema · Base de Datos Defensa Civil](https://github.com/2674321/base-datos-defensa-civil)** | Sistema integral para la Defensa Civil de Chile, Sede La Serena: voluntarios con grados y especialidades, eventos, entregas de equipamiento e inventario, con dashboard y control de acceso. |
-| **[Sistema ECICEP Unificado](https://github.com/2674321/sistema-gestion-sectores-ecicep)** | Gestión centralizada de pacientes del programa ECICEP (Examen de Medicina Preventiva) del CESFAM San Juan: tres sectores (Amarillo/Verde/Naranjo), REM, estratificación y panel de control — Google Sheets + Apps Script. |
 
 ### Formación / Proyectos antiguos
 
