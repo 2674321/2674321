@@ -91,30 +91,46 @@ profesional. Detalle técnico de esta integración en
 
 ## Proyectos
 
-### En uso 🟢
+Catálogo maestro del ecosistema (`01–15`). Detalle por proyecto en
+[`PROJECT_CATALOG.md`](PROJECT_CATALOG.md).
 
-| Proyecto | Descripción |
-|----------|-------------|
-| **[Sistema · Gestión de Guardias](https://github.com/2674321/sistema-de-guardias)** | Calendarización y gestión de guardias para la 1ª Compañía de Bomberos del CBC (Coquimbo): niveles Inicial/Operativo/Profesional con cupos por día, asistencia, baja protegida con código enviado al correo y panel de administración integrado sobre Google Sheets. |
-| **[Sistema · Cotizaciones PDF](https://github.com/2674321/sistema-cotizaciones)** | Generador personal de cotizaciones profesionales para servicios tecnológicos: JSON → plantilla HTML → PDF con WeasyPrint, QR de verificación + hash SHA-256 anti-alteraciones, desglose justificado de la inversión y numeración automática. |
-| **[Sistema · Seguimiento Clínico PADI](https://github.com/2674321/cesfam-san-juan-padds)** | Sistema de seguimiento clínico desarrollado a solicitud del Servicio PADI (Coquimbo): registro de pacientes con dependencia, cuidador principal, controles y patologías crónicas, alertas de vigencia y agenda. |
-| **[Sistema · Control de Carro de Paro](https://github.com/2674321/carro-de-paro)** | Revisión de inventario de carros de paro (urgencia ambulatoria y móviles): medicamentos e insumos, revisiones periódicas, stock y vencimientos. |
-| **[Sistema ECICEP](https://github.com/2674321/sistema-gestion-sectores-ecicep)** | Sistema personal de registro y gestión clínica de pacientes: formulario web único de captura, identificación y deduplicación, modelo de estratificación por sectores (naranjo/amarillo/verde), panel de control, estadísticas REM (Excel/PDF), cola de calidad y backups — Google Sheets + Apps Script · **[IA](https://github.com/2674321/Sistema-Gestion-Sectores-ECICEP/blob/master/docs/INFORME_IA_GEMINI.md)**: integración de la API de Gemini con análisis y calidad de datos, validación local de duplicados e integridad, corrección asistida y auditoría trazable · 🧪 [demo del formulario](https://2674321.github.io/Sistema-Gestion-Sectores-ECICEP/) |
-| **[Manual · Guía de Radiocomunicaciones](https://github.com/2674321/guia-radiocomunicaciones-ca2opx)** | Manual de campo imprimible (A4) con los códigos de radio usados en emergencias en Chile — Código Q (UIT), Claves R (CONAF) y alfabeto fonético OACI — en dos versiones: Claves 10 del Cuerpo de Bomberos de Coquimbo y Códigos 10 de Banda Ciudadana (CB). Incluye tarjetas con QR listas para imprimir · 🌐 [ver online](https://2674321.github.io/guia-radiocomunicaciones-ca2opx/) |
+| Nº | Proyecto | Repositorio | Inicio | Tipo | Estado |
+|---:|----------|-------------|--------|------|--------|
+| 01 | Seguimiento Clínico PADI | [cesfam-san-juan-padds](https://github.com/2674321/cesfam-san-juan-padds) | 2026-08-13 | Git | En uso |
+| 02 | Base de Datos · Defensa Civil | [base-datos-defensa-civil](https://github.com/2674321/base-datos-defensa-civil) | 2026-08-18 | Git | En desarrollo |
+| 03 | Asistencia Digital · Bomberos | [asistencia-digital-bomberos](https://github.com/2674321/asistencia-digital-bomberos) | 2026-08-19 | Git | Deprecado |
+| 04 | Control · Carro de Paro | [carro-de-paro](https://github.com/2674321/carro-de-paro) | 2026-08-19 | Git | En uso |
+| 05 | Guía de Radiocomunicaciones | [guia-radiocomunicaciones-ca2opx](https://github.com/2674321/guia-radiocomunicaciones-ca2opx) | 2026-08-20 | Git | Activo |
+| 06 | Perfil de GitHub | [2674321 (este perfil)](https://github.com/2674321/2674321) | 2026-08-20 | Perfil | Activo |
+| 07 | Seguimiento de Baterías | [seguimiento-baterias-pernostock-ltda](https://github.com/2674321/seguimiento-baterias-pernostock-ltda) | 2026-08-20 | Git | Histórico |
+| 08 | Aurea Salud · web | [pagina-web-aurea-salud](https://github.com/2674321/pagina-web-aurea-salud) | 2026-08-20 | Git | Experimental |
+| 09 | Sistema de Cotizaciones | [sistema-cotizaciones](https://github.com/2674321/sistema-cotizaciones) | 2026-08-21 | Git | En migración |
+| 10 | Sistema ECICEP | [Sistema-Gestion-Sectores-ECICEP](https://github.com/2674321/Sistema-Gestion-Sectores-ECICEP) | 2026-08-21 | Git | Activo |
+| 11 | Sistema de Guardias | [sistema-de-guardias](https://github.com/2674321/sistema-de-guardias) | 2026-08-24 | Git | En uso |
+| 12 | VantOPS | [vantops-chile](https://github.com/2674321/vantops-chile) | 2026-08-26 | Git | En desarrollo |
+| 13 | Repository Health Auditor | [github-repository-auditor](https://github.com/2674321/github-repository-auditor) | 2026-08-27 | Git | Estable |
+| 14 | Generador de Etiquetas | [generador-etiquetas-pernostock](https://github.com/2674321/generador-etiquetas-pernostock) | 2026-08-31 | Git | Activo |
+| 15 | Seguimiento de Baterías (DEV) | *Solo local* | 2026-08-31 | DEV | DEV local |
 
-### En desarrollo 🚧
+**Tipo**: `Git` = repositorio público · `Perfil` = este repositorio · `DEV` = solo local (sin publicar).
 
-| Proyecto | Descripción |
-|----------|-------------|
-| **[Sistema · Base de Datos Defensa Civil](https://github.com/2674321/base-datos-defensa-civil)** | Sistema integral para la Defensa Civil de Chile, Sede La Serena: voluntarios con grados y especialidades, eventos, entregas de equipamiento e inventario, con dashboard y control de acceso. |
+## Relaciones entre proyectos
 
-### Formación / Proyectos antiguos
+### 07 → 15 · Seguimiento de Baterías
 
-| Proyecto | Descripción |
-|----------|-------------|
-| **[App offline · Asistencia Digital Bomberos](https://github.com/2674321/asistencia-digital-bomberos)** | Propuesta de digitalización del registro de asistencia de voluntarios de la 1ª Compañía de Bomberos de Coquimbo. Descontinuada: exige el formato institucional exacto, pendiente de replicar digitalmente · ▶️ [demo](https://2674321.github.io/asistencia-digital-bomberos/) |
-| **[Programa escritorio · Seguimiento de Baterías](https://github.com/2674321/seguimiento-baterias-pernostock-ltda)** | Aplicación de escritorio en Ruby/GTK3 + SQLite desarrollada para Pernostock Ltda: registro, búsqueda, historial, estadísticas y copias de seguridad de baterías. |
-| **[Página web · Aurea Salud](https://github.com/2674321/pagina-web-aurea-salud)** | Prototipo experimental de plataforma de salud/telemedicina: landing informativa, login simulado y panel administrativo estático. Incompleto por diseño; conservado como referencia de aprendizaje. |
+El proyecto **15** es una derivación **DEV local independiente** de la línea
+histórica del proyecto **07**. Es un entorno de trabajo local sin repositorio
+público; **no** es un segundo repositorio de GitHub.
+
+## Convención
+
+> Los números son identificadores históricos estables utilizados para organizar
+> el ecosistema local de proyectos de `2674321`. No forman parte del nombre de
+> los repositorios de GitHub y no se renumeran cuando se incorporan nuevos proyectos.
+
+- El orden numérico no representa necesariamente la fecha absoluta de creación de cada proyecto.
+- Los proyectos nuevos reciben el siguiente número disponible (el próximo es el **16**).
+- Los números retirados no se reciclan.
 
 ## 📮 Contacto
 
