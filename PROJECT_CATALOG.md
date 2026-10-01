@@ -36,32 +36,35 @@ inicio e incorporación por separado.
 
 ## Descripciones
 
-### En uso
 | Nº | Proyecto | Descripción |
 |---:|---|---|
-| 11 | Sistema · Gestión de Guardias | Calendarización y gestión de guardias para la 1ª Compañía de Bomberos del CBC (Coquimbo): niveles Inicial/Operativo/Profesional con cupos por día, asistencia, baja protegida con código enviado al correo y panel de administración integrado sobre Google Sheets. |
-| 09 | Sistema · Cotizaciones PDF | Generador de cotizaciones profesionales para servicios tecnológicos: JSON → plantilla HTML → PDF con WeasyPrint, QR de verificación + hash SHA-256 anti-alteraciones, desglose justificado de la inversión y numeración automática. |
-| 01 | Sistema · Seguimiento Clínico PADI | Sistema de seguimiento clínico desarrollado a solicitud del Servicio PADI (Coquimbo): registro de pacientes con dependencia, cuidador principal, controles y patologías crónicas, alertas de vigencia y agenda. |
-| 04 | Sistema · Control de Carro de Paro | Revisión de inventario de carros de paro (urgencia ambulatoria y móviles): medicamentos e insumos, revisiones periódicas, stock y vencimientos. |
-| 10 | Sistema ECICEP | Sistema de registro y gestión clínica de pacientes: formulario web único de captura, identificación y deduplicación, estratificación por sectores, panel de control, estadísticas REM (Excel/PDF), control de calidad, trazabilidad y respaldos sobre Google Sheets + Apps Script · 🧪 [demo del formulario](https://2674321.github.io/Sistema-Gestion-Sectores-ECICEP/) |
-| 05 | Manual · Guía de Radiocomunicaciones | Manual de campo imprimible (A4) con los códigos de radio usados en emergencias en Chile — Código Q (UIT), Claves R (CONAF) y alfabeto fonético OACI — en dos versiones: Claves 10 del Cuerpo de Bomberos de Coquimbo y Códigos 10 de Banda Ciudadana (CB). Incluye tarjetas con QR listas para imprimir · 🌐 [ver online](https://2674321.github.io/guia-radiocomunicaciones-ca2opx/) |
+| 01 | Seguimiento Clínico PADI | Gestión y seguimiento de pacientes PADI: fichas, controles, vigencias, agenda y alertas sobre Google Apps Script + Sheets. |
+| 02 | Base de Datos · Defensa Civil | Gestión de voluntarios, grados, especialidades, eventos, asistencia, entregas e inventario mediante Google Apps Script + Sheets. |
+| 03 | Asistencia Digital · Bomberos | PWA histórica para registro digital de asistencia de voluntarios, con funcionamiento offline y sincronización posterior. |
+| 04 | Control · Carro de Paro | Control de inventario de carros de paro y móviles SAPU: revisiones, stock, vencimientos, estadísticas e informes. |
+| 05 | Guía de Radiocomunicaciones | Guía web e imprimible de Código Q, Claves R, alfabeto OACI y claves operativas de radiocomunicación. |
+| 06 | Perfil de GitHub | Portada técnica e índice público de proyectos, tecnologías y documentación del ecosistema de repositorios. |
+| 07 | Seguimiento de Baterías | Aplicación histórica de escritorio en Ruby/GTK3 + SQLite para registro, búsqueda, historial, estadísticas y respaldos de baterías. |
+| 08 | Aurea Salud · web | Prototipo formativo de plataforma de salud y telemedicina; frontend estático conservado como referencia histórica. |
+| 09 | Sistema de Cotizaciones | Generador de cotizaciones PDF desde datos estructurados, con plantilla reutilizable, QR de verificación y hash de integridad. |
+| 10 | Sistema ECICEP | Registro y gestión clínica por sectores: captura, deduplicación, seguimiento, controles, estadísticas REM, calidad de datos y respaldos. |
+| 11 | Sistema de Guardias | Calendarización y gestión de guardias para Bomberos: cupos, niveles, asistencia, bajas protegidas y generación de hojas operativas. |
+| 12 | VantOPS | PWA para planificación y bitácora de operaciones RPAS: meteorología, METAR, mapas, baterías y funcionamiento offline. |
+| 13 | Repository Health Auditor | CLI en Python para inventario y auditoría reproducible de repositorios Git/GitHub, con reportes y comparación de resultados. |
+| 14 | Generador de Etiquetas | Aplicación Ruby/GTK3 para generar etiquetas Code128/QR en PDF desde XLSX, XLS, ODS o CSV. |
+| 15 | Seguimiento de Baterías (DEV) | Derivación local independiente del proyecto 07, utilizada como espacio de trabajo sin repositorio público. |
 
-### En desarrollo
-| Nº | Proyecto | Descripción |
-|---:|---|---|
-| 02 | Base de Datos · Defensa Civil | Sistema integral para la Defensa Civil de Chile, Sede La Serena: voluntarios con grados y especialidades, eventos, entregas de equipamiento e inventario, con dashboard y control de acceso. |
-| 12 | VantOPS | PWA para operaciones con RPAS/drones (React + Vite + TypeScript): planeación y gestión de operaciones de drones. |
-| 13 | Repository Health Auditor | CLI de auditoría de repositorios GitHub en Python (`repo-auditor`, Python ≥ 3.10), con pruebas y revisión de salud de repos. |
-| 14 | Generador de Etiquetas | Generador de etiquetas para Pernostock (Ruby/GTK3); línea hermana de la aplicación de baterías. |
+## Repositorios posteriores pendientes de sincronizar con la numeración local
 
-### Histórico / experimental / dev local
-| Nº | Proyecto | Descripción |
-|---:|---|---|
-| 03 | Asistencia Digital · Bomberos | Propuesta de digitalización del registro de asistencia de voluntarios de la 1ª Compañía de Bomberos de Coquimbo. Descontinuada: exige el formato institucional exacto, pendiente de replicar digitalmente · ▶️ [demo](https://2674321.github.io/asistencia-digital-bomberos/) |
-| 07 | Seguimiento de Baterías | Aplicación de escritorio en Ruby/GTK3 + SQLite desarrollada para Pernostock Ltda: registro, búsqueda, historial, estadísticas y copias de seguridad de baterías. |
-| 08 | Aurea Salud · web | Prototipo experimental de plataforma de salud/telemedicina: landing informativa, login simulado y panel administrativo estático. Incompleto por diseño; conservado como referencia de aprendizaje. |
-| 06 | Perfil de GitHub | El repositorio donde está este catálogo: sirve de portada e índice maestro del ecosistema. |
-| 15 | Seguimiento de Baterías (DEV) | Derivación DEV local independiente de la línea del proyecto 07. Sin repositorio público. |
+GitHub contiene proyectos incorporados después de la última sincronización del índice
+local. No se les asigna aquí un número histórico hasta recuperar y revisar el
+workspace principal, para evitar renumerar o inventar identificadores.
+
+| Repositorio | Visibilidad | Descripción |
+|---|---|---|
+| [Sistema-Ayudantia-1ra-Cia-CBC](https://github.com/2674321/Sistema-Ayudantia-1ra-Cia-CBC) | Privado | Sistema administrativo para partes, seguimiento, ODD, asistencia, combustible y documentación de la 1ª Compañía del Cuerpo de Bomberos de Coquimbo. |
+| [pagina-web-pernostock](https://github.com/2674321/pagina-web-pernostock) | Público | Primer sitio web del autor, conservado como referencia histórica del proceso de aprendizaje. |
+| [sistema-contabilidad-canal-saturno](https://github.com/2674321/sistema-contabilidad-canal-saturno) | Privado | Sistema local de contabilidad para una organización de aguas: padrón, cobros, egresos, deuda, informes y migración histórica. |
 
 ## Relaciones entre proyectos
 
