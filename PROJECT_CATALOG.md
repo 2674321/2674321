@@ -26,13 +26,20 @@ workspace local para nombrar su carpeta (`NN_NombreProyecto`).
 | 13 | `13_github-repository-auditor` | [github-repository-auditor](https://github.com/2674321/github-repository-auditor) | 2026-08-27 | ≈ 2026-08-27 | Git | Estable | — |
 | 14 | `14_generador-etiquetas-pernostock` | [generador-etiquetas-pernostock](https://github.com/2674321/generador-etiquetas-pernostock) | 2026-08-31 | ≈ 2026-08-31 | Git | Activo | — |
 | 15 | `15_seguimiento-baterias-pernostock-ltda` | *Sin repositorio público (local)* | 2026-08-31 | ≈ 2026-08-31 | DEV | DEV local | derivado DEV de 07 |
+| 16 | `16_Sistema-Ayudantia-1ra-Cia-CBC`² | *Sistema-Ayudantia-1ra-Cia-CBC* (privado) | 2026-09-28 | 2026-09-28 | Git privado | En desarrollo | institucional |
+| 17 | `17_pagina-web-pernostock`² | [pagina-web-pernostock](https://github.com/2674321/pagina-web-pernostock) | 2026-09-29 | 2026-09-29 | Git | Histórico | recuperación |
+| 18 | `18_sistema-contabilidad-canal-saturno`² | *sistema-contabilidad-canal-saturno* (privado) | 2026-09-30 | 2026-09-30 | Git privado | En desarrollo | cliente |
 
 ¹ Proyectos incorporados antes de la convención de numeración (2026-09-12): la fecha de
-incorporación se toma como la del primer commit. Los proyectos nuevos registrarán fecha de
+incorporación se toma como la del primer commit. Los proyectos nuevos registran fecha de
 inicio e incorporación por separado.
 
-**Tipos**: `Git` = repositorio público en GitHub · `Perfil` = este repositorio ·
-`DEV` = solo local, sin publicar.
+² Los identificadores 16–18 quedan fijados por orden histórico de incorporación a GitHub.
+La carpeta local correspondiente debe sincronizarse en el workspace principal cuando esté disponible;
+el número ya no debe cambiar.
+
+**Tipos**: `Git` = repositorio público en GitHub · `Git privado` = repositorio privado ·
+`Perfil` = este repositorio · `DEV` = solo local, sin publicar.
 
 ## Descripciones
 
@@ -53,18 +60,22 @@ inicio e incorporación por separado.
 | 13 | Repository Health Auditor | CLI en Python para inventario y auditoría reproducible de repositorios Git/GitHub, con reportes y comparación de resultados. |
 | 14 | Generador de Etiquetas | Aplicación Ruby/GTK3 para generar etiquetas Code128/QR en PDF desde XLSX, XLS, ODS o CSV. |
 | 15 | Seguimiento de Baterías (DEV) | Derivación local independiente del proyecto 07, utilizada como espacio de trabajo sin repositorio público. |
+| 16 | Sistema de Ayudantía · 1ª Cía. CBC | Sistema administrativo privado para partes, seguimiento, ODD, asistencia, combustible y documentación de la 1ª Compañía. |
+| 17 | PernoStock Web | Recuperación y conservación del primer sitio web del portfolio como referencia histórica. |
+| 18 | Contabilidad Canal Saturno | Sistema privado en Python + SQLite para contabilidad, conciliación, deuda, informes y migración histórica de una organización de aguas. |
 
-## Repositorios posteriores pendientes de sincronizar con la numeración local
+## Sincronización de los proyectos 16–18
 
-GitHub contiene proyectos incorporados después de la última sincronización del índice
-local. No se les asigna aquí un número histórico hasta recuperar y revisar el
-workspace principal, para evitar renumerar o inventar identificadores.
+La numeración quedó fijada a partir del orden histórico verificable de incorporación a GitHub:
 
-| Repositorio | Visibilidad | Descripción |
-|---|---|---|
-| [Sistema-Ayudantia-1ra-Cia-CBC](https://github.com/2674321/Sistema-Ayudantia-1ra-Cia-CBC) | Privado | Sistema administrativo para partes, seguimiento, ODD, asistencia, combustible y documentación de la 1ª Compañía del Cuerpo de Bomberos de Coquimbo. |
-| [pagina-web-pernostock](https://github.com/2674321/pagina-web-pernostock) | Público | Primer sitio web del autor, conservado como referencia histórica del proceso de aprendizaje. |
-| [sistema-contabilidad-canal-saturno](https://github.com/2674321/sistema-contabilidad-canal-saturno) | Privado | Sistema local de contabilidad para una organización de aguas: padrón, cobros, egresos, deuda, informes y migración histórica. |
+| Nº | Proyecto | Primer commit en GitHub | Estado de sincronización local |
+|---:|---|---|---|
+| 16 | Sistema de Ayudantía · 1ª Cía. CBC | 2026-09-28 | Número reservado; aplicar al workspace local |
+| 17 | PernoStock Web | 2026-09-29 | Número reservado; aplicar al workspace local |
+| 18 | Contabilidad Canal Saturno | 2026-09-30 | Número reservado; aplicar al workspace local |
+
+La sincronización del nombre físico de las carpetas locales no es requisito para considerar
+asignado el número. **16, 17 y 18 quedan reservados y no se reutilizan.**
 
 ## Relaciones entre proyectos
 
@@ -93,8 +104,8 @@ Ejemplo:
 
 | | |
 |---|---|
-| Actualmente | `15` = último número utilizado |
-| Nuevo | `16_NuevoProyecto` |
+| Actualmente | `18` = último número utilizado |
+| Nuevo | `19_NuevoProyecto` |
 | GitHub | `2674321/NuevoProyecto` |
 
 ## Convención
@@ -104,12 +115,11 @@ Ejemplo:
 > los repositorios de GitHub y no se renumeran cuando se incorporan nuevos proyectos.
 
 - El orden numérico no representa necesariamente la fecha absoluta de creación de cada proyecto.
-- Los proyectos nuevos reciben el siguiente número disponible (el próximo es el **16**).
+- Los proyectos nuevos reciben el siguiente número disponible (el próximo es el **19**).
 - Los números retirados no se reciclan.
 - La numeración es **local y estable**: el nombre del repositorio en
   GitHub conserva su nombre original (p. ej. local `12_VantOps` ⇄ GitHub `VantOps`).
 
 ---
 
-*Catálogo sincronizado con el workspace local `07_Proyectos` (estructura plana,
-numeración estable 01–15). Actualizado el 2026-09-12.*
+*Catálogo GitHub actualizado el 2026-10-01. Numeración estable 01–18; el workspace local conserva 01–15 hasta sincronizar físicamente las carpetas 16–18.*
