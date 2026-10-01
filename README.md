@@ -134,7 +134,7 @@ Trabajo principalmente con **Google Apps Script + Sheets**, aplicaciones web en 
 
 **Separación de datos, lógica y presentación · validaciones comprensibles · trazabilidad · pruebas de regresión · respaldos · documentación operativa · interfaces sobrias orientadas a tareas concretas.**
 
-El catálogo histórico y la convención local de proyectos se mantienen en [PROJECT_CATALOG.md](PROJECT_CATALOG.md).
+El catálogo histórico y la convención local de proyectos se mantienen en [PROJECT_CATALOG.md](PROJECT_CATALOG.md). Las reglas comunes de seguridad, visibilidad, estados y flujo de cambios están en [PORTFOLIO_GOVERNANCE.md](PORTFOLIO_GOVERNANCE.md).
 
 ## Contacto
 
