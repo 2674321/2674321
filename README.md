@@ -26,43 +26,43 @@ Trabajo principalmente con **Google Apps Script + Sheets**, aplicaciones web en 
 <tr>
 <td align="center" width="50%">
 <a href="https://github.com/2674321/Sistema-Gestion-Sectores-ECICEP">
-<img src="https://raw.githubusercontent.com/2674321/Sistema-Gestion-Sectores-ECICEP/master/docs/screenshots/webapp-captura.png" width="100%" alt="ECICEP — Web App de captura y gestión"/>
+<img src="https://raw.githubusercontent.com/2674321/Sistema-Gestion-Sectores-ECICEP/076fdd8a06096071700dadc83f35f5cc71228e3c/docs/branding/app-icon.svg" width="128" alt="ECICEP"/>
 </a>
-<br><sub><b>ECICEP</b> · Captura, sectorización y seguimiento clínico</sub>
+<br><b>ECICEP</b><br><sub>Gestión clínica, sectorización, seguimiento y estadísticas REM.</sub>
 </td>
-<td align="center" width="50%">
-<a href="https://github.com/2674321/base-datos-defensa-civil">
-<img src="https://raw.githubusercontent.com/2674321/base-datos-defensa-civil/master/docs/screenshots/dc-panel-control.png" width="100%" alt="Defensa Civil — Panel de control"/>
-</a>
-<br><sub><b>Defensa Civil</b> · Gestión de voluntarios, eventos e inventario</sub>
-</td>
-</tr>
-<tr>
 <td align="center" width="50%">
 <a href="https://github.com/2674321/sistema-de-guardias">
-<img src="https://raw.githubusercontent.com/2674321/sistema-de-guardias/main/docs/img/guardias-ventana-principal.png" width="100%" alt="Sistema de Guardias — Ventana principal"/>
+<img src="https://raw.githubusercontent.com/2674321/sistema-de-guardias/main/docs/branding/app-icon.svg" width="128" alt="Sistema de Guardias"/>
 </a>
-<br><sub><b>Sistema de Guardias</b> · Calendarización operativa</sub>
-</td>
-<td align="center" width="50%">
-<a href="https://github.com/2674321/vantops-chile">
-<img src="https://raw.githubusercontent.com/2674321/vantops-chile/main/docs/screenshots/dashboard.png" width="100%" alt="VantOPS — Dashboard de planificación RPAS"/>
-</a>
-<br><sub><b>VantOPS</b> · Planificación y bitácora RPAS</sub>
+<br><b>Sistema de Guardias</b><br><sub>Calendarización y gestión operativa para Bomberos.</sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
-<a href="https://github.com/2674321/sistema-cotizaciones">
-<img src="https://raw.githubusercontent.com/2674321/sistema-cotizaciones/main/docs/screenshots/cotizaciones-demo-02.png" width="100%" alt="Sistema de Cotizaciones — Desglose de inversión"/>
+<a href="https://github.com/2674321/base-datos-defensa-civil">
+<img src="https://raw.githubusercontent.com/2674321/base-datos-defensa-civil/master/docs/branding/app-icon.svg" width="128" alt="Base de Datos Defensa Civil"/>
 </a>
-<br><sub><b>Sistema de Cotizaciones</b> · PDF, desglose y verificación</sub>
+<br><b>Defensa Civil</b><br><sub>Voluntarios, eventos, entregas, inventario y trazabilidad.</sub>
 </td>
 <td align="center" width="50%">
-<a href="https://github.com/2674321/generador-etiquetas-pernostock">
-<img src="https://raw.githubusercontent.com/2674321/generador-etiquetas-pernostock/main/docs/ejemplo-qr-codigo-barras.png" width="100%" alt="PernoLabel — Etiqueta con Code128 y QR"/>
+<a href="https://github.com/2674321/cesfam-san-juan-padds">
+<img src="https://raw.githubusercontent.com/2674321/cesfam-san-juan-padds/master/docs/branding/app-icon.svg" width="128" alt="Seguimiento clínico PADI"/>
 </a>
-<br><sub><b>PernoLabel</b> · Etiquetas Code128 + QR</sub>
+<br><b>Seguimiento Clínico PADI</b><br><sub>Pacientes, controles, alertas de vigencia y agenda.</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/2674321/carro-de-paro">
+<img src="https://raw.githubusercontent.com/2674321/carro-de-paro/master/docs/branding/app-icon.svg" width="128" alt="Control de Carro de Paro"/>
+</a>
+<br><b>Control de Carro de Paro</b><br><sub>Stock, revisiones, vencimientos e informes SAPU.</sub>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/2674321/sistema-cotizaciones">
+<img src="https://raw.githubusercontent.com/2674321/sistema-cotizaciones/main/docs/branding/app-icon.svg" width="128" alt="Sistema de Cotizaciones"/>
+</a>
+<br><b>Sistema de Cotizaciones</b><br><sub>Documentos PDF, desglose técnico y verificación por QR.</sub>
 </td>
 </tr>
 </table>
