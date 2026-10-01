@@ -28,41 +28,41 @@ Trabajo principalmente con **Google Apps Script + Sheets**, aplicaciones web en 
 <a href="https://github.com/2674321/Sistema-Gestion-Sectores-ECICEP">
 <img src="https://raw.githubusercontent.com/2674321/Sistema-Gestion-Sectores-ECICEP/master/docs/screenshots/webapp-captura.png" width="100%" alt="ECICEP — Web App de captura y gestión"/>
 </a>
-<br><sub><b>ECICEP</b> · Registro, sectorización y seguimiento clínico</sub>
+<br><sub><b>ECICEP</b> · Captura, sectorización y seguimiento clínico</sub>
 </td>
-<td align="center" width="50%">
-<a href="https://github.com/2674321/cesfam-san-juan-padds">
-<img src="https://raw.githubusercontent.com/2674321/cesfam-san-juan-padds/master/docs/screenshots/padi-pacientes-centro-control.png" width="100%" alt="PADI — Centro de control de pacientes"/>
-</a>
-<br><sub><b>PADI</b> · Seguimiento de pacientes, controles y vigencias</sub>
-</td>
-</tr>
-<tr>
 <td align="center" width="50%">
 <a href="https://github.com/2674321/base-datos-defensa-civil">
 <img src="https://raw.githubusercontent.com/2674321/base-datos-defensa-civil/master/docs/screenshots/dc-panel-control.png" width="100%" alt="Defensa Civil — Panel de control"/>
 </a>
-<br><sub><b>Defensa Civil</b> · Voluntarios, eventos, equipamiento e inventario</sub>
-</td>
-<td align="center" width="50%">
-<a href="https://github.com/2674321/sistema-de-guardias">
-<img src="https://raw.githubusercontent.com/2674321/sistema-de-guardias/main/docs/img/guardias-ventana-principal.png" width="100%" alt="Sistema de Guardias — Ventana principal"/>
-</a>
-<br><sub><b>Sistema de Guardias</b> · Calendarización y operación de guardias</sub>
+<br><sub><b>Defensa Civil</b> · Gestión de voluntarios, eventos e inventario</sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
+<a href="https://github.com/2674321/sistema-de-guardias">
+<img src="https://raw.githubusercontent.com/2674321/sistema-de-guardias/main/docs/img/guardias-ventana-principal.png" width="100%" alt="Sistema de Guardias — Ventana principal"/>
+</a>
+<br><sub><b>Sistema de Guardias</b> · Calendarización operativa</sub>
+</td>
+<td align="center" width="50%">
 <a href="https://github.com/2674321/vantops-chile">
 <img src="https://raw.githubusercontent.com/2674321/vantops-chile/main/docs/screenshots/dashboard.png" width="100%" alt="VantOPS — Dashboard de planificación RPAS"/>
 </a>
-<br><sub><b>VantOPS</b> · Planificación y bitácora de operaciones RPAS</sub>
+<br><sub><b>VantOPS</b> · Planificación y bitácora RPAS</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/2674321/sistema-cotizaciones">
+<img src="https://raw.githubusercontent.com/2674321/sistema-cotizaciones/main/docs/screenshots/cotizaciones-demo-02.png" width="100%" alt="Sistema de Cotizaciones — Desglose de inversión"/>
+</a>
+<br><sub><b>Sistema de Cotizaciones</b> · PDF, desglose y verificación</sub>
 </td>
 <td align="center" width="50%">
 <a href="https://github.com/2674321/generador-etiquetas-pernostock">
-<img src="https://raw.githubusercontent.com/2674321/generador-etiquetas-pernostock/main/assets/generador_etiquetas_gtk_principal.png" width="100%" alt="PernoLabel — Generador de etiquetas"/>
+<img src="https://raw.githubusercontent.com/2674321/generador-etiquetas-pernostock/main/docs/ejemplo-qr-codigo-barras.png" width="100%" alt="PernoLabel — Etiqueta con Code128 y QR"/>
 </a>
-<br><sub><b>PernoLabel</b> · Etiquetas Code128/QR desde planillas y CSV</sub>
+<br><sub><b>PernoLabel</b> · Etiquetas Code128 + QR</sub>
 </td>
 </tr>
 </table>
