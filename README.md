@@ -4,11 +4,13 @@
 
 # Patricio Varela C.
 
-**Coquimbo, Chile 🇨🇱** · **CA2OPX** · **Bombero Operativo** · **Operador RPAS** · **Voluntario Mayor, Defensa Civil**
+**Desarrollo de software y soluciones digitales** · Coquimbo, Chile 🇨🇱 · CA2OPX
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--1087--9445-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-1087-9445)
 
-Desarrollo soluciones digitales orientadas a **salud pública, emergencias, gestión institucional y operaciones de terreno**. Mi enfoque es transformar procesos manuales, planillas y registros dispersos en sistemas simples, trazables y mantenibles.
+Me dedico al desarrollo de **sistemas de gestión, aplicaciones web y herramientas de escritorio**. Mis proyectos abordan necesidades concretas en salud, emergencias, administración, logística y operaciones de terreno.
+
+Trabajo desde el análisis del problema hasta la implementación y el mantenimiento: organización de datos, automatización de procesos, interfaces prácticas, documentación, pruebas y respaldos. En este perfil reúno proyectos en uso, desarrollos experimentales y trabajos históricos, identificados según su estado real.
 
 ## Tecnologías
 
@@ -21,7 +23,7 @@ Desarrollo soluciones digitales orientadas a **salud pública, emergencias, gest
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-Trabajo principalmente con **Google Apps Script + Sheets**, aplicaciones web en **JavaScript/TypeScript**, sistemas locales en **Python + SQLite** y utilidades de escritorio en **Ruby/GTK3**. Priorizo pruebas, validaciones, trazabilidad, respaldos y una interfaz clara para el usuario final.
+Utilizo **Google Apps Script y Sheets** para sistemas integrados, **JavaScript/TypeScript y React** para aplicaciones web, **Python y SQLite** para herramientas locales, y **Ruby/GTK3** para utilidades de escritorio. También desarrollo flujos de documentos PDF y verificaciones automatizadas. Elijo la tecnología según la necesidad de cada proyecto, no al revés.
 
 <p align="center">
   <img src="assets/section-health.svg" width="100%" alt="Sistemas de Salud">
@@ -32,24 +34,24 @@ Trabajo principalmente con **Google Apps Script + Sheets**, aplicaciones web en 
 <td align="center" width="50%">
 <a href="https://github.com/2674321/Sistema-Gestion-Sectores-ECICEP"><img src="assets/project-ecicep.svg" width="112" alt="ECICEP"></a><br>
 <b>ECICEP</b><br>
-<sub>Gestión clínica, sectorización, seguimiento, REM y calidad de datos.</sub>
+<sub>Captura y gestión clínica por sectores, informes REM y control de calidad de datos.</sub>
 </td>
 <td align="center" width="50%">
 <a href="https://github.com/2674321/cesfam-san-juan-padds"><img src="https://raw.githubusercontent.com/2674321/cesfam-san-juan-padds/master/docs/branding/app-icon.svg" width="112" alt="Seguimiento Clínico PADI"></a><br>
 <b>Seguimiento Clínico PADI</b><br>
-<sub>Pacientes, controles, vigencias, agenda y seguimiento clínico.</sub>
+<sub>Seguimiento clínico PADI: pacientes, controles, vigencias y agenda.</sub>
 </td>
 </tr>
 <tr>
 <td align="center">
 <a href="https://github.com/2674321/carro-de-paro"><img src="https://raw.githubusercontent.com/2674321/carro-de-paro/master/docs/branding/app-icon.svg" width="112" alt="Control de Carro de Paro"></a><br>
 <b>Control de Carro de Paro</b><br>
-<sub>Stock, revisiones, vencimientos e informes para SAPU y móviles.</sub>
+<sub>Control de stock, revisiones diarias y vencimientos en SAPU y móviles.</sub>
 </td>
 <td align="center">
 <a href="https://github.com/2674321/pagina-web-aurea-salud"><img src="https://raw.githubusercontent.com/2674321/pagina-web-aurea-salud/main/docs/branding/app-icon.svg" width="112" alt="Aurea Salud"></a><br>
 <b>Aurea Salud</b><br>
-<sub>Prototipo formativo de plataforma de salud y telemedicina.</sub>
+<sub>Prototipo formativo de salud y telemedicina, no productivo.</sub>
 </td>
 </tr>
 </table>
@@ -63,31 +65,31 @@ Trabajo principalmente con **Google Apps Script + Sheets**, aplicaciones web en 
 <td align="center" width="50%">
 <a href="https://github.com/2674321/sistema-de-guardias"><img src="https://raw.githubusercontent.com/2674321/sistema-de-guardias/main/docs/branding/app-icon.svg" width="112" alt="Sistema de Guardias"></a><br>
 <b>Sistema de Guardias</b><br>
-<sub>Calendarización, cupos, asistencia y control operativo para Bomberos.</sub>
+<sub>Calendario de guardias, cupos, asistencia y administración operativa.</sub>
 </td>
 <td align="center" width="50%">
 <a href="https://github.com/2674321/base-datos-defensa-civil"><img src="https://raw.githubusercontent.com/2674321/base-datos-defensa-civil/master/docs/branding/app-icon.svg" width="112" alt="Base de Datos Defensa Civil"></a><br>
 <b>Defensa Civil</b><br>
-<sub>Voluntarios, eventos, entregas, inventario y trazabilidad.</sub>
+<sub>Gestión de voluntarios, convocatorias, entregas e inventario.</sub>
 </td>
 </tr>
 <tr>
 <td align="center">
 <a href="https://github.com/2674321/asistencia-digital-bomberos"><img src="https://raw.githubusercontent.com/2674321/asistencia-digital-bomberos/main/docs/branding/app-icon.svg" width="112" alt="Asistencia Digital Bomberos"></a><br>
 <b>Asistencia Digital Bomberos</b><br>
-<sub>PWA histórica para registro y sincronización de asistencia.</sub>
+<sub>PWA de asistencia offline; proyecto histórico descontinuado.</sub>
 </td>
 <td align="center">
 <a href="https://github.com/2674321/guia-radiocomunicaciones-ca2opx"><img src="https://raw.githubusercontent.com/2674321/guia-radiocomunicaciones-ca2opx/main/docs/branding/app-icon.svg" width="112" alt="Guía de Radiocomunicaciones"></a><br>
 <b>Guía de Radiocomunicaciones</b><br>
-<sub>Referencia web e imprimible para comunicaciones de campo.</sub>
+<sub>Guías web y PDF de códigos, claves y protocolos de radiocomunicación.</sub>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
 <a href="https://github.com/2674321/vantops-chile"><img src="https://raw.githubusercontent.com/2674321/vantops-chile/main/docs/branding/app-icon.svg" width="112" alt="VantOPS Chile"></a><br>
 <b>VantOPS Chile</b><br>
-<sub>Planificación, meteorología y bitácora para operaciones RPAS.</sub>
+<sub>PWA para planificación RPAS, meteorología de referencia y bitácora local.</sub>
 </td>
 </tr>
 </table>
@@ -101,38 +103,44 @@ Trabajo principalmente con **Google Apps Script + Sheets**, aplicaciones web en 
 <td align="center" width="50%">
 <a href="https://github.com/2674321/sistema-cotizaciones"><img src="https://raw.githubusercontent.com/2674321/sistema-cotizaciones/main/docs/branding/app-icon.svg" width="112" alt="Sistema de Cotizaciones"></a><br>
 <b>Sistema de Cotizaciones</b><br>
-<sub>Documentos PDF, QR de verificación y desglose técnico de costos.</sub>
+<sub>Cotizaciones PDF mediante Python y WeasyPrint, con QR e integridad documental.</sub>
 </td>
 <td align="center" width="50%">
 <a href="https://github.com/2674321/generador-etiquetas-pernostock"><img src="https://raw.githubusercontent.com/2674321/generador-etiquetas-pernostock/main/docs/branding/app-icon.svg" width="112" alt="PernoLabel"></a><br>
 <b>PernoLabel</b><br>
-<sub>Etiquetas Code128 y QR desde XLSX, XLS, ODS o CSV.</sub>
+<sub>Aplicación Ruby/GTK3 para etiquetas PDF Code128 y QR desde planillas.</sub>
 </td>
 </tr>
 <tr>
 <td align="center">
 <a href="https://github.com/2674321/seguimiento-baterias-pernostock-ltda"><img src="https://raw.githubusercontent.com/2674321/seguimiento-baterias-pernostock-ltda/main/docs/branding/app-icon.svg" width="112" alt="Seguimiento de Baterías"></a><br>
 <b>Seguimiento de Baterías</b><br>
-<sub>Aplicación de escritorio para historial, stock y trazabilidad.</sub>
+<sub>Aplicación histórica Ruby/GTK3 para seguimiento y respaldo de baterías.</sub>
 </td>
 <td align="center">
 <a href="https://github.com/2674321/github-repository-auditor"><img src="https://raw.githubusercontent.com/2674321/github-repository-auditor/main/docs/branding/app-icon.svg" width="112" alt="GitHub Repository Auditor"></a><br>
 <b>GitHub Repository Auditor</b><br>
-<sub>CLI reproducible para inventario y auditoría de repositorios.</sub>
+<sub>CLI Python para auditorías reproducibles de Git y GitHub.</sub>
 </td>
 </tr>
 <tr>
 <td align="center" colspan="2">
 <a href="https://github.com/2674321/pagina-web-pernostock"><img src="https://raw.githubusercontent.com/2674321/pagina-web-pernostock/main/docs/branding/app-icon.svg" width="112" alt="PernoStock Web"></a><br>
 <b>PernoStock Web</b><br>
-<sub>Primer proyecto web del portfolio, conservado como referencia histórica.</sub>
+<sub>Primer sitio web desarrollado; conservado como proyecto histórico.</sub>
 </td>
 </tr>
 </table>
 
-## Principios de trabajo
+## Otros desarrollos
 
-**Separación de datos, lógica y presentación · validaciones comprensibles · trazabilidad · pruebas de regresión · respaldos · documentación operativa · interfaces sobrias orientadas a tareas concretas.**
+También trabajo en **sistemas administrativos y contables de uso interno**. Esos repositorios permanecen privados para separar el código y la información operativa de los proyectos publicados.
+
+## Criterios de desarrollo
+
+**Utilidad real · integridad de datos · separación de responsabilidades · validaciones claras · pruebas de regresión · trazabilidad · respaldos · documentación · mantenimiento.**
+
+Las demostraciones de los repositorios públicos emplean datos ficticios cuando corresponde. Los proyectos experimentales o discontinuados se identifican como tales.
 
 El catálogo histórico y la convención local de proyectos se mantienen en [PROJECT_CATALOG.md](PROJECT_CATALOG.md). Las reglas comunes de seguridad, visibilidad, estados y flujo de cambios están en [PORTFOLIO_GOVERNANCE.md](PORTFOLIO_GOVERNANCE.md).
 
