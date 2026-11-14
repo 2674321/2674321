@@ -121,7 +121,7 @@ Ejemplo:
 > los repositorios de GitHub y no se renumeran cuando se incorporan nuevos proyectos.
 
 - El orden numérico no representa necesariamente la fecha absoluta de creación de cada proyecto.
-- Los proyectos nuevos reciben el siguiente número disponible (el próximo es el **19**).
+- Los proyectos nuevos reciben el siguiente número libre después de conciliar los repositorios incorporados desde el catálogo histórico.
 - Los números retirados no se reciclan.
 - La numeración es **local y estable**: el nombre del repositorio en
   GitHub conserva su nombre original (p. ej. local `12_VantOps` ⇄ GitHub `VantOps`).
