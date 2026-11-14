@@ -12,6 +12,16 @@ Me dedico al desarrollo de **sistemas de gestión, aplicaciones web y herramient
 
 Trabajo desde el análisis del problema hasta la implementación y el mantenimiento: organización de datos, automatización de procesos, interfaces prácticas, documentación, pruebas y respaldos. En este perfil reúno proyectos en uso, desarrollos experimentales y trabajos históricos, identificados según su estado real.
 
+## Proyectos en imágenes
+
+Capturas de aplicaciones y demostraciones públicas. Cada proyecto mantiene su documentación y estado por separado.
+
+| Guardias (demo) | VantOPS Chile |
+|---|---|
+| [![Calendario de guardias](https://raw.githubusercontent.com/2674321/sistema-de-guardias/main/docs/img/guardias-calendario-bimestral-pc.png)](https://github.com/2674321/sistema-de-guardias) | [![Panel VantOPS](https://raw.githubusercontent.com/2674321/vantops-chile/main/docs/screenshots/dashboard.png)](https://github.com/2674321/vantops-chile) |
+| Guía de radiocomunicaciones | PernoLabel |
+| [![Guía de radiocomunicaciones](https://raw.githubusercontent.com/2674321/guia-radiocomunicaciones-ca2opx/main/docs/screenshots/01-portada.png)](https://github.com/2674321/guia-radiocomunicaciones-ca2opx) | [![Generador de etiquetas](https://raw.githubusercontent.com/2674321/generador-etiquetas-pernostock/main/docs/captura-ventana-principal.png)](https://github.com/2674321/generador-etiquetas-pernostock) |
+
 ## Tecnologías
 
 ![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)
