@@ -7,6 +7,12 @@ workspace local para nombrar su carpeta (`NN_NombreProyecto`).
 
 > Resumen en [`README.md`](README.md) · Inventario detallado en este documento.
 
+## Estado de GitHub · 14-11-2026
+
+El acceso del propietario muestra **20 repositorios**: **16 públicos y 4 privados**. La numeración 01–18 de abajo es un **catálogo histórico**, no un inventario exhaustivo del GitHub actual. Existen proyectos posteriores, principalmente de uso interno, que aún requieren asignación formal dentro de la numeración local. Se omiten sus detalles privados.
+
+Las capturas públicas verificadas se encuentran en los README de los proyectos. No se debe confundir una captura de demostración con un despliegue operativo.
+
 ## Catálogo completo
 
 | Nº | Nombre local | Repositorio | Inicio | Incorporado¹ | Tipo | Estado | Relación |
@@ -89,7 +95,7 @@ asumirse que 15 tenga contraparte pública.
 
 ## Regla para nuevos proyectos
 
-Cuando se incorpore un nuevo proyecto al ecosistema:
+**Antes de asignar un número nuevo, conciliar los repositorios creados después del proyecto 18** para evitar duplicaciones. Cuando se incorpore un nuevo proyecto al ecosistema:
 
 1. determinar si realmente es un proyecto;
 2. verificar si ya existe;
@@ -104,8 +110,8 @@ Ejemplo:
 
 | | |
 |---|---|
-| Actualmente | `18` = último número utilizado |
-| Nuevo | `19_NuevoProyecto` |
+| Actualmente | `18` = último número formalmente catalogado; hay repositorios posteriores pendientes de clasificación |
+| Nuevo | Siguiente número libre después de conciliar los proyectos no catalogados |
 | GitHub | `2674321/NuevoProyecto` |
 
 ## Convención
@@ -122,4 +128,4 @@ Ejemplo:
 
 ---
 
-*Catálogo GitHub actualizado el 2026-10-01. Numeración estable 01–18; el workspace local conserva 01–15 hasta sincronizar físicamente las carpetas 16–18.*
+*Numeración histórica estable 01–18, revisada el 14-11-2026. La lista de repositorios es mayor; los identificadores posteriores requieren conciliación antes de asignar nuevas carpetas.*
