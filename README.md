@@ -12,13 +12,23 @@ Me dedico al desarrollo de **sistemas de gestión, aplicaciones web y herramient
 
 Trabajo desde el análisis del problema hasta la implementación y el mantenimiento: organización de datos, automatización de procesos, interfaces prácticas, documentación, pruebas y respaldos. En este perfil reúno proyectos en uso, desarrollos experimentales y trabajos históricos, identificados según su estado real.
 
+## Proyecto destacado: VantOPS Chile
+
+<p align="center">
+  <a href="https://2674321.github.io/vantops-chile/"><img src="https://raw.githubusercontent.com/2674321/vantops-chile/main/docs/branding/hero-banner.svg" width="100%" alt="VantOPS Chile — Vector V Andino, planificación RPAS"></a>
+</p>
+
+**[Abrir aplicación web](https://2674321.github.io/vantops-chile/)** · **[Mapa de operaciones](https://2674321.github.io/vantops-chile/#/utilidades/mapa)** · **[Código y documentación](https://github.com/2674321/vantops-chile)**
+
+VantOPS Chile es una **PWA gratuita y de código abierto para apoyo a operaciones RPAS**: reúne meteorología de referencia, mapas con radios personalizables, preparación de operaciones y bitácora local, sin exigir cuentas. **Estado actual verificado:** `v1.1.0-beta.2`, publicada en GitHub Pages; no reemplaza permisos o normativa aeronáutica de la DGAC.
+
 ## Proyectos en imágenes
 
 Capturas de aplicaciones y demostraciones públicas. Cada proyecto mantiene su documentación y estado por separado.
 
 | Guardias (demo) | VantOPS Chile |
 |---|---|
-| [![Calendario de guardias](https://raw.githubusercontent.com/2674321/sistema-de-guardias/main/docs/img/guardias-calendario-bimestral-pc.png)](https://github.com/2674321/sistema-de-guardias) | [![Panel VantOPS](https://raw.githubusercontent.com/2674321/vantops-chile/main/docs/screenshots/dashboard.png)](https://github.com/2674321/vantops-chile) |
+| [![Calendario de guardias](https://raw.githubusercontent.com/2674321/sistema-de-guardias/main/docs/img/guardias-calendario-bimestral-pc.png)](https://github.com/2674321/sistema-de-guardias) | [![Panel VantOPS](https://raw.githubusercontent.com/2674321/vantops-chile/main/docs/screenshots/utilidades-mapa-desktop.png)](https://github.com/2674321/vantops-chile) |
 | Guía de radiocomunicaciones | PernoLabel |
 | [![Guía de radiocomunicaciones](https://raw.githubusercontent.com/2674321/guia-radiocomunicaciones-ca2opx/main/docs/screenshots/01-portada.png)](https://github.com/2674321/guia-radiocomunicaciones-ca2opx) | [![Generador de etiquetas](https://raw.githubusercontent.com/2674321/generador-etiquetas-pernostock/main/docs/captura-ventana-principal.png)](https://github.com/2674321/generador-etiquetas-pernostock) |
 
@@ -99,7 +109,7 @@ Utilizo **Google Apps Script y Sheets** para sistemas integrados, **JavaScript/T
 <td align="center" colspan="2">
 <a href="https://github.com/2674321/vantops-chile"><img src="https://raw.githubusercontent.com/2674321/vantops-chile/main/docs/branding/app-icon.svg" width="112" alt="VantOPS Chile"></a><br>
 <b>VantOPS Chile</b><br>
-<sub>PWA para planificación RPAS, meteorología de referencia y bitácora local.</sub>
+<sub>PWA gratuita de apoyo RPAS: meteorología de referencia, mapa de radios, preparaciones y bitácora local.</sub>
 </td>
 </tr>
 </table>
